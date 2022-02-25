@@ -36,4 +36,4 @@ ___
 ### Why open source ?
 ___
 
-I left the resource open so you can upgrade it
+I left the resource open so you can upgrade it .
