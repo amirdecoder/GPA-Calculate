@@ -22,7 +22,8 @@ Open source for C ++ programming language enthusiasts<br>
 ___
 
 <img align="right" width="140" alt="amirhossein arabahmadi" src="https://s20.picofile.com/file/8443247184/photo_2021_11_03_20_25_40.jpg">
-&nbsp;Amirhossein arabahmadi
+Amirhossein arabahmadi
+_______________________
 <br>
 <br>
 I am variable
