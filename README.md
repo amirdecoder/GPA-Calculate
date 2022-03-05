@@ -22,15 +22,14 @@ Open source for C ++ programming language enthusiasts<br>
 ___
 
 <img align="right" width="140" alt="amirhossein arabahmadi" src="https://s20.picofile.com/file/8443247184/photo_2021_11_03_20_25_40.jpg">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amirhossein arabahmadi
+&nbsp;Amirhossein arabahmadi
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am variable
+I am variable
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I have started a new life
+And I have started a new life
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://hpv.im/horizontal-line-divider-png-transparent.png">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In terms of technology limitations are meaningless to me
+In terms of technology limitations are meaningless to me
 <br>
 
 ### Why open source ?
